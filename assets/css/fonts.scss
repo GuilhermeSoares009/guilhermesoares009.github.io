@@ -1,0 +1,53 @@
+@font-face {
+    font-family: 'Fugaz One';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Fugaz One'), local('FugazOne-Regular'), url('https://dias.dev/build/FugazOne-Regular.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+    src: local('Baloo 2 Regular'), local('Baloo2-Regular'), url('https://dias.dev/build/Baloo2-Regular.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: local('Baloo 2 Medium'), local('Baloo2-Medium'), url('https://dias.dev/build/Baloo2-Medium.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 600;
+    font-display: swap;
+    src: local('Baloo 2 SemiBold'), local('Baloo2-SemiBold'), url('https://dias.dev/build/Baloo2-SemiBold.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 700;
+    font-display: swap;
+    src: local('Baloo 2 Bold'), local('Baloo2-Bold'), url('https://dias.dev/build/Baloo2-Bold.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}
+
+@font-face {
+    font-family: 'Baloo 2';
+    font-style: normal;
+    font-weight: 800;
+    font-display: swap;
+    src: local('Baloo 2 ExtraBold'), local('Baloo2-ExtraBold'), url('https://dias.dev/build/Baloo2-ExtraBold.woff2') format('woff2');
+    unicode-range: U+0000-00FF, U+FEFF, U+FFFD;
+}

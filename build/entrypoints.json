@@ -1,0 +1,27 @@
+{
+  "entrypoints": {
+    "app": {
+      "css": [
+        "/build/app.css"
+      ],
+      "js": [
+        "/build/app.js"
+      ]
+    },
+    "lite-yt-embed-script": {
+      "js": [
+        "/build/lite-yt-embed-script.js"
+      ]
+    },
+    "index": {
+      "css": [
+        "/build/index.css"
+      ]
+    },
+    "post": {
+      "css": [
+        "/build/post.css"
+      ]
+    }
+  }
+}
